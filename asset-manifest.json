@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dingle17/todo.git/static/css/main.3c9fda40.css",
+    "main.js": "/dingle17/todo.git/static/js/main.16efe3d3.js",
+    "index.html": "/dingle17/todo.git/index.html",
+    "main.3c9fda40.css.map": "/dingle17/todo.git/static/css/main.3c9fda40.css.map",
+    "main.16efe3d3.js.map": "/dingle17/todo.git/static/js/main.16efe3d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c9fda40.css",
+    "static/js/main.16efe3d3.js"
+  ]
+}
